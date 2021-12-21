@@ -1,0 +1,11 @@
+.alert-danger{
+    margin-top: 5px;
+    padding: 3px 5px;
+}
+
+.image_slider{
+    margin-top: 10px;
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+}
